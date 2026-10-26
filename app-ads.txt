@@ -1,0 +1,4 @@
+# app-ads.txt for BeatJutsu (docs/ADS_SETUP.md step 5).
+# Replace pub-0000000000000000 with your AdMob publisher id, then host this file
+# at the root of the developer website set in App Store Connect.
+google.com, pub-5923690428757969, DIRECT, f08c47fec0942fa0
